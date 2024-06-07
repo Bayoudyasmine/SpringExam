@@ -37,4 +37,7 @@ public class EmployeeRole {
     public void setEmployees(List<Employee> employees) {
         this.employees = employees;
     }
+    public void setEmployees(List<Employee> employees) {
+        this.employees = employees;
+    }
 }
